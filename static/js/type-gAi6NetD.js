@@ -1,0 +1,1 @@
+import{Q as t}from"./index-BhYtO5lj.js";function r(e){return t({url:"/system/dict/type/"+e,method:"get"})}function s(){return t({url:"/system/dict/type/optionselect",method:"get"})}export{r as g,s as o};
