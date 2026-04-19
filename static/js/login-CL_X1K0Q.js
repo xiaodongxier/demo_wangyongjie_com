@@ -1,0 +1,1 @@
+import{aa as t}from"./index-DOBYGZx_.js";function o(e){return t({url:"/auth/register",headers:{isToken:!1},method:"post",data:e})}function a(e){return t({url:"/auth/unlockscreen",method:"post",data:{password:e}})}function s(){return t({url:"/code",headers:{isToken:!1},method:"get",timeout:2e4})}export{s as g,o as r,a as u};

@@ -1,1 +1,0 @@
-import{ab as t}from"./index-B50w91Q4.js";function r(e){return t({url:"/system/dict/type/"+e,method:"get"})}function s(){return t({url:"/system/dict/type/optionselect",method:"get"})}export{r as g,s as o};
